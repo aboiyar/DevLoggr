@@ -9,6 +9,7 @@ import Profile from './components/pages/Profile';
 import PostPage from './components/pages/PostPage';
 import PrivateRoute from './components/layout/PrivateRoute';
 import { AuthProvider } from './context/authContext';
+import PostFormPage from './components/pages/PostFormPage';
 
 function App() {
   return (
